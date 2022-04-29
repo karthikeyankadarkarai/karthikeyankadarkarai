@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @karthikeyankadarkarai
+- 👀 I’m interested in backend engineering
+- 🌱 I’m currently learning clojure
+- 💞️ I’m looking to collaborate on clojure projects
+- 📫 How to reach me karthikeyan.kadarkarai@swymcorp.com
